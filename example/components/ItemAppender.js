@@ -1,4 +1,4 @@
-import Component from '../../lib/component.js';
+import Component from '../../lib/Component.js';
 
 export default class ItemAppender extends Component {
   template() {
